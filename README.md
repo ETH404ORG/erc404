@@ -1,3 +1,7 @@
+# ETH404
+Genesis Ethereum Tokens Based On Enhanced ERC404. Optimizing Gas Prices, Increasing Token Supply, And Simplifying Transfers. Expected ERC404 Leader.
+Official website link: https://eth404.org
+
 # ERC404
 
 ERC-404 is a new experimental way of combining two existing standards in the cryptocurrency world: ERC-20 and ERC-721. It aims to allow for both regular token transactions (like ERC-20) and unique, non-fungible tokens (like ERC-721) to work together smoothly.
